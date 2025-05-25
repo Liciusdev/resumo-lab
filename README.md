@@ -1,2 +1,14 @@
-# resumo-lab
-Apenas um resumo criado para concluir atividade
+
+# Apenas um breve resumo para concluir a atividade.
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque urna magna, vestibulum vel diam at, aliquet interdum lectus. Curabitur ante nunc, bibendum non arcu nec, lacinia sollicitudin ligula. Aenean sed mi et dolor luctus pellentesque. Pellentesque dapibus, ex tincidunt vulputate imperdiet, turpis lorem tempus massa, at volutpat lacus nibh eu turpis. Proin eget mauris interdum, vulputate neque sed, malesuada justo. Maecenas vitae tincidunt ante. Mauris sed convallis risus, sed aliquet felis. Mauris auctor ut lorem eu venenatis. Nam porta metus non tellus consequat, et ultricies tortor tristique.
+
+Sed sit amet eros arcu. Fusce sodales consectetur nisi, non venenatis nisl venenatis eget. Morbi sagittis nunc dui, sagittis porta eros mollis quis. Duis ac mi orci. Morbi sed est urna. Duis id libero volutpat mauris ornare congue at et quam. Vivamus dolor ipsum, volutpat pretium ligula a, rhoncus cursus urna.
+
+Aenean lacinia suscipit venenatis. Donec ullamcorper dolor risus, ac tincidunt massa venenatis quis. Curabitur laoreet ex nisl, at eleifend urna porta vitae. Duis elementum et nisl at iaculis. Maecenas eget aliquet sem, at egestas metus. Phasellus convallis suscipit lacus id dapibus. Donec nec enim lobortis, convallis lorem ac, posuere odio. Curabitur finibus elit nec odio consectetur ornare. Morbi sollicitudin, augue sit amet hendrerit bibendum, lorem urna posuere orci, a convallis purus ipsum at enim. Suspendisse erat lorem, imperdiet eget nisi nec, congue pharetra tellus. Fusce ultrices mi vel commodo elementum. Aliquam in nulla augue.
+
+Morbi et turpis turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam consequat felis purus. Mauris laoreet neque ante, sit amet imperdiet sem consectetur sed. Aenean interdum metus quis lacus mollis vehicula. Nunc et nunc varius, tincidunt nibh feugiat, dapibus est. Etiam convallis nisl non quam elementum imperdiet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et purus at nulla pellentesque porta. Integer scelerisque consectetur venenatis. Nullam consequat congue tincidunt. Nulla at molestie ex. Aenean elementum imperdiet libero sed aliquet. Vestibulum quam diam, vehicula non felis nec, tincidunt commodo lorem.
+
+Quisque finibus finibus magna, eget malesuada ligula blandit ac. Ut scelerisque aliquet leo, nec tempus turpis semper eu. Vivamus vehicula nec ligula sed hendrerit. Nulla augue nisi, egestas ut efficitur sit amet, pulvinar dapibus dui. Pellentesque ex sem, elementum vel viverra eget, laoreet ut massa. Cras in convallis est, vel vulputate urna. In hac habitasse platea dictumst. Praesent rutrum felis rhoncus, interdum erat non, dignissim erat. Maecenas semper lobortis purus et vehicula. Nulla vestibulum tincidunt finibus. Integer a ipsum varius, rutrum libero in, ornare lorem. Sed consequat sagittis rutrum. Mauris eu dolor feugiat dolor ultrices venenatis ac nec nunc. Pellentesque vitae porttitor ligula. Aliquam turpis est, tempor sed sapien ut, varius auctor eros.
+
